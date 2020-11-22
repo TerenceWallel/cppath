@@ -1,0 +1,46 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/cppath.h
+cppath_base.hpp
+../include/cppath_base.hpp
+
+../include/cppath_base.hpp
+iostream
+-
+unistd.h
+-
+string
+-
+vector
+-
+array
+-
+algorithm
+-
+limits
+-
+cppath_config.h
+../include/cppath_config.h
+
+../include/cppath_config.h
+vector
+-
+string
+-
+array
+-
+
+/home/wallel/CLionProjects/Cppath/example/example.cpp
+iostream
+-
+cppath.h
+/home/wallel/CLionProjects/Cppath/example/cppath.h
+string
+-
+

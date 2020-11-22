@@ -1,0 +1,1 @@
+/usr/bin/c++  -g  -rdynamic CMakeFiles/cppath_example.dir/example.cpp.o  -o cppath_example 

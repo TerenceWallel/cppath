@@ -1,0 +1,5 @@
+/home/wallel/CLionProjects/Cppath/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/wallel/CLionProjects/Cppath/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/wallel/CLionProjects/Cppath/cmake-build-debug/example/CMakeFiles/rebuild_cache.dir
+/home/wallel/CLionProjects/Cppath/cmake-build-debug/example/CMakeFiles/edit_cache.dir
+/home/wallel/CLionProjects/Cppath/cmake-build-debug/example/CMakeFiles/cppath_example.dir
